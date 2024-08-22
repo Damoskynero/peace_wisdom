@@ -1,2 +1,9 @@
 God gives me wisdom and understanding
 new update soon.....
+
+public wisdom {
+public static void main(String[] args) {
+System.out.println("wisdom from above");
+
+}
+}
